@@ -1,5 +1,13 @@
 # End-To-End-ObjectDetection-Project
 
+## Workflow
+- constants
+- config_entity
+- artifact_entity
+- components
+- pipeline
+- app.py
+
 
 ## How to run:
 ```bash
